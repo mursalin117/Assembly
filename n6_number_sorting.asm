@@ -1,4 +1,4 @@
-; String sorting using bubble sort
+; Number sorting using bubble sort
 
 .MODEL SMALL
 .STACK 100H
